@@ -20,9 +20,9 @@ Screenshot
 
 Not working:
 -----------
-Camera
+Camera (http://pastebin.com/Te5CTy9a)
 
-WiFi
+WiFi (D/WifiHW  (  847): Unable to unload driver module "wlan": No such file or directory)
 
 Bluetooth
 

@@ -14,6 +14,8 @@ Display
 
 Audio playback
 
+Internal SDcard
+
 Screenshot
 
 Not working:
@@ -42,6 +44,7 @@ Other issues (Pre-alpha build):
 --------------------------------
 - Touchscreen doesn't work on every boot
 - Stock browser disabled purposely
-- System UI may FC (assuming related to RIL issues)
+- System UI may FC (related to RIL issues)
 
-Pre-alpha build: Coming soon! ONLY FOR LOG COLLECTING AND BUG FIXING!
+Pre-alpha build: Coming soon!
+ONLY FOR LOG COLLECTING AND BUG FIXING!

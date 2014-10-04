@@ -50,3 +50,7 @@ Other issues (Pre-alpha build):
 
 Pre-alpha build: Coming soon!
 ONLY FOR LOG COLLECTING AND BUG FIXING!
+
+
+
+Please use adb "logcat *:E" instead of "adb logcat". - Lozohcum

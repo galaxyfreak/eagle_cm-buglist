@@ -53,4 +53,7 @@ ONLY FOR LOG COLLECTING AND BUG FIXING!
 
 
 
+
+
 Please use adb "logcat *:E" instead of "adb logcat". - Lozohcum
+--------------------------------

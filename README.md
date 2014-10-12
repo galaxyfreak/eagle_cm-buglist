@@ -14,9 +14,17 @@ Display
 
 Audio playback
 
+Audio recording
+
+Video playback
+
 Screenshot
 
 Bluetooth
+
+Internal SDcard
+
+External SDcard
 
 
 Not working:
@@ -25,7 +33,7 @@ Camera (http://pastebin.com/Te5CTy9a)
 
 WiFi (http://pastebin.com/PypFjPT8)
 
-Storage (ramdisk issue)
+Sensors (light-sensor, accelerometer)
 
 Untested:
 --------
@@ -34,10 +42,6 @@ RIL
 NFC
 
 GPS
-
-Video playback
-
-Audio recording
 
 Other issues (Pre-alpha build):
 --------------------------------

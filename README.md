@@ -20,10 +20,6 @@ Video playback
 
 Screenshot
 
-Bluetooth
-
-Internal SDcard
-
 External SDcard
 
 
@@ -35,17 +31,18 @@ WiFi (http://pastebin.com/PypFjPT8)
 
 Sensors (light-sensor, accelerometer)
 
+Internal SDcard
+
+Bluetooth
+
+GPS
+
+
 Untested:
 --------
 RIL
 
 NFC
-
-GPS
-
-Other issues (Pre-alpha build):
---------------------------------
-- Touchscreen doesn't work on every boot
 
 Pre-alpha build: Coming soon!
 ONLY FOR LOG COLLECTING AND BUG FIXING!

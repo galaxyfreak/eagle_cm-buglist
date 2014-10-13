@@ -14,13 +14,13 @@ Display
 
 Audio playback
 
-Audio recording
-
 Video playback
 
 Screenshot
 
 External SDcard
+
+Internal SDcard
 
 
 Not working:
@@ -31,7 +31,7 @@ WiFi (http://pastebin.com/PypFjPT8)
 
 Sensors (light-sensor, accelerometer)
 
-Internal SDcard
+Audio recording
 
 Bluetooth
 

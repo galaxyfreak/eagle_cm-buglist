@@ -14,6 +14,8 @@ Display
 
 Audio playback
 
+Audio recording
+
 Video playback
 
 Screenshot
@@ -31,23 +33,8 @@ WiFi (http://pastebin.com/PypFjPT8)
 
 Sensors (light-sensor, accelerometer)
 
-Audio recording
-
 Bluetooth
 
 GPS
 
-
-Untested:
---------
 RIL
-
-NFC
-
-Pre-alpha build: Coming soon!
-ONLY FOR LOG COLLECTING AND BUG FIXING!
-
-
-
-Please use "adb logcat *:E" instead of "adb logcat". - Lozohcum
---------------------------------

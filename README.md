@@ -32,12 +32,16 @@ Notification LED
 
 MTP
 
+Torch
+
 
 Not working:
 -----------
 Camera (http://pastebin.com/Te5CTy9a)
 
 Sensors (light-sensor, accelerometer)
+
+Brightness control
 
 GPS
 

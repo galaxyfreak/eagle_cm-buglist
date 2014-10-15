@@ -28,6 +28,10 @@ WiFi
 
 Bluetooth
 
+Notification LED
+
+MTP
+
 
 Not working:
 -----------
@@ -35,6 +39,6 @@ Camera (http://pastebin.com/Te5CTy9a)
 
 Sensors (light-sensor, accelerometer)
 
-GPS (untested)
+GPS
 
 RIL

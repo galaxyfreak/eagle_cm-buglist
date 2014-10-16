@@ -37,11 +37,9 @@ Torch
 
 Not working:
 -----------
-Camera (http://pastebin.com/Te5CTy9a)
+Camera (https://gist.github.com/erikcas/4501a23aa0b850769ce4)
 
-Sensors (light-sensor, accelerometer)
-
-Brightness control
+Accelerometer
 
 GPS
 

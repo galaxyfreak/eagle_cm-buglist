@@ -36,6 +36,10 @@ Torch
 
 NFC
 
+RIL
+
+Deepsleep
+
 
 Not working:
 -----------
@@ -45,4 +49,4 @@ Accelerometer
 
 GPS
 
-RIL
+

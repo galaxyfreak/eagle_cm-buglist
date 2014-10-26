@@ -40,6 +40,8 @@ RIL
 
 Deepsleep
 
+Recovery (enter by tapping <volume down> on Sony boot logo)
+
 
 Not working:
 -----------

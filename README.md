@@ -50,8 +50,7 @@ Not working:
 -----------
 Camera (https://gist.github.com/erikcas/4501a23aa0b850769ce4)
 
-Accelerometer
+Sensors
 
 GPS
-
 

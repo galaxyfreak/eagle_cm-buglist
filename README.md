@@ -40,7 +40,7 @@ RIL
 
 Deepsleep
 
-USB OTG
+USB Host & OTG
 
 Recovery
 (enter by tapping <volume down> on Sony boot logo)

@@ -40,7 +40,10 @@ RIL
 
 Deepsleep
 
-Recovery (enter by tapping <volume down> on Sony boot logo)
+USB OTG
+
+Recovery
+(enter by tapping <volume down> on Sony boot logo)
 
 
 Not working:

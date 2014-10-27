@@ -54,3 +54,5 @@ Sensors
 
 GPS
 
+Advanced Reboot
+(rebooting to recovery or fastboot from CM Reboot Menu)

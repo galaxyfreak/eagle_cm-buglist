@@ -43,7 +43,7 @@ Deepsleep
 USB Host & OTG
 
 Recovery
-(enter by tapping <volume down> on Sony boot logo)
+(enter by tapping "volume down on Sony boot logo)
 
 
 Not working:

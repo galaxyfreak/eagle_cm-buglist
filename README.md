@@ -50,7 +50,7 @@ GPS
 
 Not working:
 -----------
-Camera (https://gist.github.com/erikcas/4501a23aa0b850769ce4)
+Camera (http://pastebin.com/d3PGwZ4n)
 
 Sensors
 

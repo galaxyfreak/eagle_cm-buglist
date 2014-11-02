@@ -52,7 +52,7 @@ Not working:
 -----------
 Camera (http://pastebin.com/d3PGwZ4n)
 
-Sensors
+Light sensor
 
 Advanced Reboot
 (rebooting to recovery or fastboot from CM Reboot Menu)

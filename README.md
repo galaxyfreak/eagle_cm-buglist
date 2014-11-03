@@ -47,12 +47,12 @@ Recovery
 
 GPS
 
+Sensors
+
 
 Not working:
 -----------
 Camera (http://pastebin.com/d3PGwZ4n)
-
-Light sensor
 
 Advanced Reboot
 (rebooting to recovery or fastboot from CM Reboot Menu)

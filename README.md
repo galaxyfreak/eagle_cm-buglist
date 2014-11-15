@@ -12,6 +12,8 @@ Working:
 --------
 Display
 
+Camera
+
 Audio playback
 
 Audio recording
@@ -52,7 +54,6 @@ Sensors
 
 Not working:
 -----------
-Camera (http://pastebin.com/d3PGwZ4n)
 
 Advanced Reboot
 (rebooting to recovery or fastboot from CM Reboot Menu)

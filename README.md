@@ -45,7 +45,6 @@ Deepsleep
 USB Host & OTG
 
 Recovery
-(enter by tapping "volume down" on Sony boot logo)
 
 GPS
 
@@ -55,5 +54,4 @@ Sensors
 Not working:
 -----------
 
-Advanced Reboot
-(rebooting to recovery or fastboot from CM Reboot Menu)
+- ?

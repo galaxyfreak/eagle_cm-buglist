@@ -10,48 +10,52 @@ Bug list
 
 Working:
 --------
-Display
+- GSM
 
-Camera
+- Display
 
-Audio playback
+- Camera
 
-Audio recording
+- Audio playback
 
-Video playback
+- Audio recording
 
-Screenshot
+- Video playback
 
-External SDcard
+- Video recording
 
-Internal SDcard
+- Screenshot
 
-WiFi
+- External SDcard
 
-Bluetooth
+- Internal SDcard
 
-Notification LED
+- WiFi
 
-MTP
+- Bluetooth
 
-Torch
+- Notification LED
 
-NFC
+- MTP
 
-RIL
+- Torch
 
-Deepsleep
+- NFC
 
-USB Host & OTG
+- Mobile Data
 
-Recovery
+- Deepsleep
 
-GPS
+- USB Host & OTG
 
-Sensors
+- Recovery
+
+- GPS
+
+- Sensors
 
 
 Not working:
 -----------
 
-- ?
+?

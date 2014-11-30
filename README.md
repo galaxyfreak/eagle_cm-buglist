@@ -10,21 +10,8 @@ Bug list
 
 Working:
 --------
-- GSM
 
 - Display
-
-- Camera
-
-- Audio playback
-
-- Audio recording
-
-- Video playback
-
-- Video recording
-
-- Screenshot
 
 - External SDcard
 
@@ -32,30 +19,40 @@ Working:
 
 - WiFi
 
-- Bluetooth
-
 - Notification LED
-
-- MTP
-
-- Torch
-
-- NFC
 
 - Mobile Data
 
 - Deepsleep
-
-- USB Host & OTG
-
-- Recovery
-
-- GPS
 
 - Sensors
 
 
 Not working:
 -----------
+- Camera
 
-?
+- Audio playback
+
+- Video playback (due to broken audio)
+
+- NFC
+
+- GPS
+
+- MTP
+
+- Bluetooth
+
+- USB Host & OTG (it recognizes it as SDcard, lol)
+
+Untested
+----------
+
+- GSM
+
+- Screenshot
+
+- Torch
+
+- Recovery

@@ -25,6 +25,8 @@ Working:
 
 - Deepsleep
 
+- Recovery
+
 - Sensors
 
 
@@ -54,5 +56,3 @@ Untested
 - Screenshot
 
 - Torch
-
-- Recovery

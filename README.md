@@ -19,6 +19,8 @@ Working:
 
 - WiFi
 
+- Bluetooth
+
 - Notification LED
 
 - Mobile Data
@@ -43,8 +45,6 @@ Not working:
 - GPS
 
 - MTP
-
-- Bluetooth
 
 - USB Host & OTG (it recognizes it as SDcard, lol)
 

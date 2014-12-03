@@ -21,6 +21,8 @@ Working:
 
 - Bluetooth
 
+- MTP
+
 - Notification LED
 
 - Deepsleep
@@ -41,8 +43,6 @@ Not working:
 - NFC
 
 - GPS
-
-- MTP
 
 - USB Host & OTG (it recognizes it as SDcard, lol)
 

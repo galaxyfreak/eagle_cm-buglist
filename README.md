@@ -23,8 +23,6 @@ Working:
 
 - Notification LED
 
-- Mobile Data
-
 - Deepsleep
 
 - Recovery
@@ -52,6 +50,8 @@ Untested
 ----------
 
 - GSM
+
+- Mobile Data
 
 - Screenshot
 

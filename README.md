@@ -13,13 +13,17 @@ Working:
 
 - Display
 
+- Audio playback
+
+- Audio recording
+
+- Video playback
+
 - External SDcard
 
 - Internal SDcard
 
 - WiFi
-
-- Bluetooth
 
 - MTP
 
@@ -31,20 +35,17 @@ Working:
 
 - Sensors
 
+- USB Host & OTG
+
 
 Not working:
 -----------
 - Camera
 
-- Audio playback
-
-- Video playback (due to broken audio)
+- Bluetooth
 
 - NFC
 
-- GPS
-
-- USB Host & OTG (it recognizes it as SDcard, lol)
 
 Untested
 ----------
@@ -56,3 +57,5 @@ Untested
 - Screenshot
 
 - Torch
+
+- GPS

@@ -56,9 +56,8 @@ Not working:
 Untested
 ----------
 
-- Screenshot*
+- CM doesn't have these yet.
 
-- Torch*
+ - Screenshot
 
-
-* CM doesn't have these yet.
+ - Torch

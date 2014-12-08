@@ -11,6 +11,10 @@ Bug list
 Working:
 --------
 
+- GSM
+
+- Mobile Data
+
 - Display
 
 - Audio playback
@@ -26,6 +30,8 @@ Working:
 - WiFi
 
 - MTP
+
+- GPS
 
 - Notification LED
 
@@ -50,12 +56,9 @@ Not working:
 Untested
 ----------
 
-- GSM
+- Screenshot*
 
-- Mobile Data
+- Torch*
 
-- Screenshot
 
-- Torch
-
-- GPS
+* CM doesn't have these yet.

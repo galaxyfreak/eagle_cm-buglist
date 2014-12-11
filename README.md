@@ -29,6 +29,8 @@ Working:
 
 - WiFi
 
+- Bluetooth
+
 - MTP
 
 - GPS
@@ -47,8 +49,6 @@ Working:
 Not working:
 -----------
 - Camera
-
-- Bluetooth
 
 - NFC
 

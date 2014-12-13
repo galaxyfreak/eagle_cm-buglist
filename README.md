@@ -56,6 +56,10 @@ Not working:
 
 - NFC
 
+- FM Radio
+
+- Shutdown
+
 
 Untested
 ----------

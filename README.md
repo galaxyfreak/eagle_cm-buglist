@@ -29,7 +29,11 @@ Working:
 
 - WiFi
 
+- WiFi tethering
+
 - Bluetooth
+
+- Bluetooth tethering
 
 - MTP
 

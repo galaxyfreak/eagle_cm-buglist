@@ -58,8 +58,6 @@ Not working:
 
 - FM Radio
 
-- Shutdown
-
 
 Untested
 ----------

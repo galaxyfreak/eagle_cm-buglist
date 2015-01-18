@@ -38,6 +38,8 @@ Working:
 - MTP
 
 - GPS
+- 
+- FM Radio
 
 - Notification LED
 
@@ -55,9 +57,6 @@ Not working:
 - Camera
 
 - NFC
-
-- FM Radio
-
 
 Untested
 ----------

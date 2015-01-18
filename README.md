@@ -57,14 +57,5 @@ Working:
 Not working:
 -----------
 
-- Camera
+- Camera (incl. flashlight)
 
-
-Untested
-----------
-
-- CM doesn't have these yet.
-
- - Screenshot
-
- - Torch

@@ -38,7 +38,7 @@ Working:
 - MTP
 
 - GPS
-- 
+
 - FM Radio
 
 - Notification LED

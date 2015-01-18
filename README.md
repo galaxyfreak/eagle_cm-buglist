@@ -49,14 +49,16 @@ Working:
 
 - Sensors
 
+- NFC
+
 - USB Host & OTG
 
 
 Not working:
 -----------
+
 - Camera
 
-- NFC
 
 Untested
 ----------

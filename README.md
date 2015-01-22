@@ -39,6 +39,8 @@ Working:
 
 - GPS
 
+- FM Radio
+
 - Notification LED
 
 - Deepsleep
@@ -47,25 +49,13 @@ Working:
 
 - Sensors
 
+- NFC
+
 - USB Host & OTG
 
 
 Not working:
 -----------
-- Camera
 
-- NFC
+- Camera (incl. flashlight)
 
-- FM Radio
-
-- Shutdown
-
-
-Untested
-----------
-
-- CM doesn't have these yet.
-
- - Screenshot
-
- - Torch

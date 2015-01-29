@@ -57,5 +57,5 @@ Working:
 Not working:
 -----------
 
-- Camera (incl. flashlight)
+- Camera
 

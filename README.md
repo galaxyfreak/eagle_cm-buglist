@@ -1,7 +1,10 @@
 Kernel 3.10 bringup status
 =======
+
 eagle (CM12)
 ----------
+
+
 
 Bug list
 ----------
@@ -46,6 +49,8 @@ Not working:
 - Sensors
 (We've just got a new HAL, one expected it's working, but nope)
 
+- FM Radio
+
 - USB Host & OTG
 
 - Camera
@@ -63,6 +68,3 @@ Untested:
 
 - GPS
 (I'm indoors, can't test now)
-
-- FM Radio
-(Lazy to untangle my headphones atm)

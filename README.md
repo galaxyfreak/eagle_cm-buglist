@@ -1,6 +1,7 @@
-M2 CyanogenMod 12 on Kernel 3.10 bringup status
+Kernel 3.10 bringup status
 =======
-
+eagle (CM12)
+----------
 
 Bug list
 ----------

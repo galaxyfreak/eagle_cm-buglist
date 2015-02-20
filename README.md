@@ -10,41 +10,52 @@ Bug list
 
 Working:
 --------
-Display
 
-Audio playback
+- GSM
 
-Internal SDcard
+- Mobile Data
 
-Screenshot
+- Display
+
+- Audio playback
+
+- Audio recording
+
+- Video playback
+
+- External SDcard
+
+- Internal SDcard
+
+- WiFi
+
+- WiFi tethering
+
+- Bluetooth
+
+- Bluetooth tethering
+
+- MTP
+
+- GPS
+
+- FM Radio
+
+- Notification LED
+
+- Deepsleep
+
+- Recovery
+
+- Sensors
+
+- NFC
+
+- USB Host & OTG
+
 
 Not working:
 -----------
-Camera
 
-WiFi
+- Camera
 
-Bluetooth
-
-External SDcard
-
-GPS
-
-Untested:
---------
-RIL (probably not working)
-
-Audio recording
-
-Video playback
-
-NFC
-
-Other issues (Pre-alpha build):
---------------------------------
-- Touchscreen doesn't work on every boot
-- Stock browser disabled purposely
-- System UI may FC (related to RIL issues)
-
-Pre-alpha build: Coming soon!
-ONLY FOR LOG COLLECTING AND BUG FIXING!

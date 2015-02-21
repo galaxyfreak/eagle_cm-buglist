@@ -37,10 +37,7 @@ Working:
 Not working:
 -----------
 
-- Audio recording
-
 - WiFi
-(probably needs config adjustments)
 
 - Bluetooth
 (unstable, turns on on boot, not working after that, can cause reboots)
@@ -50,6 +47,8 @@ Not working:
 
 - Sensors
 (We've just got a new HAL, one expected it's working, but nope)
+
+- Audio recording
 
 - FM Radio
 

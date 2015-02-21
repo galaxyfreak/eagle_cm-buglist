@@ -50,6 +50,8 @@ Not working:
 
 - Audio recording
 
+- Video playback
+
 - FM Radio
 
 - USB Host & OTG
@@ -60,9 +62,6 @@ Not working:
 
 Untested:
 -----------
-
-- Video playback
-(will check later, rebuilding atm)
 
 - GPS
 (I'm indoors, can't test now)

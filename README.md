@@ -49,6 +49,8 @@ Not working:
 - Sensors
 (We've just got a new HAL, one expected it's working, but nope)
 
+- MTP
+
 - FM Radio
 
 - USB Host & OTG
@@ -62,9 +64,6 @@ Untested:
 
 - Video playback
 (will check later, rebuilding atm)
-
-- MTP
-(worked 2 days back, gotta recheck)
 
 - GPS
 (I'm indoors, can't test now)

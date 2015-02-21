@@ -29,6 +29,8 @@ Working:
 
 - Deepsleep
 
+- MTP
+
 - NFC
 
 
@@ -48,8 +50,6 @@ Not working:
 
 - Sensors
 (We've just got a new HAL, one expected it's working, but nope)
-
-- MTP
 
 - FM Radio
 

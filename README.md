@@ -59,6 +59,6 @@ Not working:
 
 - ROM side issues:
 
-GPS
+- - GPS
 
-Camera
+- - Camera

@@ -54,7 +54,7 @@ Not working:
 - USB Host & OTG
 
 
-
+--------
 
 
 - ROM side issues:

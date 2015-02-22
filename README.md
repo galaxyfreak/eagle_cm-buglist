@@ -42,7 +42,7 @@ Not working:
 - WiFi
 
 
-- Bluetooth
+- Bluetooth (turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
 
 (unstable, turns on on boot, not working after that, can cause reboots)
 

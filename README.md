@@ -55,7 +55,10 @@ Not working:
 
 
 
+
+
 - ROM side issues:
 
 GPS
+
 Camera

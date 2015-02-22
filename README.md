@@ -33,6 +33,8 @@ Working:
 
 - Deepsleep
 
+- Recovery (having sony bootlogo over it. Genius.)
+
 - MTP
 
 - NFC
@@ -41,36 +43,20 @@ Working:
 Not working:
 -----------
 
-- Bluetooth (turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
-
-(unstable, turns on on boot, not working after that, can cause reboots)
-
-
-- Recovery
-
-(working, but have sony bootlogo over it. Genius.)
-
+- Bluetooth (unstable, turns on on boot, not working after that, can cause reboots, turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
 
 - Audio recording
 
-
 - Video playback
-
 
 - FM Radio
 
-
 - USB Host & OTG
 
-
 - Camera
-
-(Not implemented yet)
-
 
 Untested:
 -----------
 
 - GPS
 
-(I'm indoors, can't test now)

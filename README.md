@@ -19,6 +19,8 @@ Working:
 
 - Display
 
+- WiFi
+
 - Audio playback
 
 - External SDcard
@@ -38,9 +40,6 @@ Working:
 
 Not working:
 -----------
-
-- WiFi
-
 
 - Bluetooth (turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
 

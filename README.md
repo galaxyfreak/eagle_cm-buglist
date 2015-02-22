@@ -27,6 +27,8 @@ Working:
 
 - Notification LED
 
+- Sensors
+
 - Deepsleep
 
 - MTP
@@ -48,11 +50,6 @@ Not working:
 - Recovery
 
 (working, but have sony bootlogo over it. Genius.)
-
-
-- Sensors
-
-(We've just got a new HAL, one expected it's working, but nope)
 
 
 - Audio recording

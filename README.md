@@ -53,10 +53,9 @@ Not working:
 
 - USB Host & OTG
 
-- Camera
 
-Untested:
------------
 
-- GPS
+- ROM side issues:
 
+GPS
+Camera

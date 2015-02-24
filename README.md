@@ -31,8 +31,6 @@ Working:
 
 - Sensors
 
-- Deepsleep
-
 - Recovery (having sony bootlogo over it. Genius.)
 
 - MTP
@@ -50,6 +48,8 @@ Not working:
 - Video playback
 
 - FM Radio
+
+- Deepsleep
 
 - USB Host & OTG
 

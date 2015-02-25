@@ -23,6 +23,8 @@ Working:
 
 - Audio playback
 
+- Video playback
+
 - External SDcard
 
 - Internal SDcard
@@ -44,8 +46,6 @@ Not working:
 - Bluetooth (unstable, turns on on boot, not working after that, can cause reboots, turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
 
 - Audio recording
-
-- Video playback
 
 - FM Radio
 

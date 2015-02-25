@@ -49,7 +49,7 @@ Not working:
 
 - FM Radio
 
-- Deepsleep
+- Deepsleep (kmsg: http://pastebin.com/NBehK9hq)
 
 - USB Host & OTG
 

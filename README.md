@@ -43,8 +43,6 @@ Working:
 Not working:
 -----------
 
-- Bluetooth (unstable, turns on on boot, not working after that, can cause reboots, turn on/off kmsg: http://pastebin.com/2ZbYyvTP)
-
 - Audio recording
 
 - FM Radio
@@ -62,3 +60,5 @@ Not working:
 - - GPS
 
 - - Camera
+
+- - Bluetooth

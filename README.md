@@ -23,6 +23,8 @@ Working:
 
 - Audio playback
 
+- Audio recording
+
 - Video playback
 
 - External SDcard
@@ -43,8 +45,6 @@ Working:
 
 Not working:
 -----------
-
-- Audio recording
 
 - FM Radio
 

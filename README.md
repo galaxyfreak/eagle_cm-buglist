@@ -39,6 +39,7 @@ Working:
 
 - NFC
 
+- USB OTG
 
 Not working:
 -----------
@@ -49,8 +50,7 @@ Not working:
 
 - Deepsleep (kmsg: http://pastebin.com/NBehK9hq)
 
-- USB Host & OTG
-
+- USB Host
 
 --------
 

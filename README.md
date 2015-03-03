@@ -33,6 +33,8 @@ Working:
 
 - Notification LED
 
+- Sensors
+
 - Recovery (having sony bootlogo over it. Genius.)
 
 - GPS
@@ -47,8 +49,6 @@ Not working:
 -----------
 
 - FM Radio
-
-- Sensors (magnetometer causing reboot on sleep)
 
 - USB Host
 

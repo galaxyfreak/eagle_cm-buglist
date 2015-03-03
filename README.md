@@ -37,6 +37,8 @@ Working:
 
 - Recovery (having sony bootlogo over it. Genius.)
 
+- GPS
+ 
 - MTP
 
 - NFC
@@ -56,8 +58,6 @@ Not working:
 
 
 - ROM side issues:
-
-- - GPS
 
 - - Camera
 

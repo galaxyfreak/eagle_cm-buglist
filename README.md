@@ -21,6 +21,12 @@ Working:
 
 - WiFi
 
+- WiFi tethering
+
+- Bluetooth
+
+- Bluetooth tethering
+
 - Audio playback
 
 - Audio recording
@@ -50,13 +56,6 @@ Not working:
 
 - FM Radio
 
-- USB Host
-
---------
-
-
-- ROM side issues:
-
-- - Camera
-
-- - Bluetooth
+- USB Host ("flash drive OTG")
+ 
+- Camera

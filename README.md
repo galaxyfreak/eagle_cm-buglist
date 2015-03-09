@@ -41,6 +41,8 @@ Working:
 
 - Sensors
 
+- FM Radio
+
 - Recovery (having sony bootlogo over it. Genius.)
 
 - GPS
@@ -53,9 +55,6 @@ Working:
 
 Not working:
 -----------
-
-- FM Radio
-
 - USB Host ("flash drive OTG")
  
 - Camera

@@ -5,7 +5,6 @@ eagle (CM12)
 ----------
 
 
-
 Bug list
 ----------
 
@@ -19,14 +18,6 @@ Working:
 
 - Display
 
-- WiFi
-
-- WiFi tethering
-
-- Bluetooth
-
-- Bluetooth tethering
-
 - Audio playback
 
 - Audio recording
@@ -37,24 +28,37 @@ Working:
 
 - Internal SDcard
 
-- Notification LED
+- WiFi
 
-- Sensors
+- WiFi tethering
+
+- Bluetooth
+
+- Bluetooth tethering
+
+- MTP
+
+- GPS
 
 - FM Radio
 
+- Notification LED
+
+- Deepsleep
+
 - Recovery (having sony bootlogo over it. Genius.)
 
-- GPS
- 
-- MTP
+- Sensors
 
 - NFC
 
 - USB OTG
 
+
 Not working:
 -----------
+
 - USB Host ("flash drive OTG")
- 
+
 - Camera
+

@@ -12,10 +12,6 @@ Bug list
 Working:
 --------
 
-- GSM
-
-- Mobile Data
-
 - Display
 
 - Audio playback
@@ -57,6 +53,10 @@ Working:
 
 Not working:
 -----------
+
+- GSM
+
+- Mobile Data
 
 - USB Host ("flash drive OTG")
 

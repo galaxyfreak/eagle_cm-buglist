@@ -11,6 +11,9 @@ Bug list
 
 Working:
 --------
+- GSM
+
+- Mobile Data
 
 - Display
 

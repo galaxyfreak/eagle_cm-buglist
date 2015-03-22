@@ -57,10 +57,6 @@ Working:
 Not working:
 -----------
 
-- GSM
-
-- Mobile Data
-
 - USB Host ("flash drive OTG")
 
 - Camera

@@ -43,8 +43,6 @@ Working:
 
 - Notification LED
 
-- Deepsleep
-
 - Recovery
 
 - Sensors
@@ -56,6 +54,8 @@ Working:
 
 Not working:
 -----------
+
+- Deepsleep
 
 - USB Host ("flash drive OTG")
 

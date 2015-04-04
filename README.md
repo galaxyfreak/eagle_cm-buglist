@@ -45,7 +45,7 @@ Working:
 
 - Deepsleep
 
-- Recovery (having sony bootlogo over it. Genius.)
+- Recovery
 
 - Sensors
 

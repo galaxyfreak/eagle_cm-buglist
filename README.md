@@ -49,15 +49,13 @@ Working:
 
 - NFC
 
-- USB OTG
+- USB Host & OTG
 
 
 Not working:
 -----------
 
 - Deepsleep
-
-- USB Host ("flash drive OTG")
 
 - Camera
 

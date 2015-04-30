@@ -43,6 +43,8 @@ Working:
 
 - Notification LED
 
+- Deepsleep
+
 - Recovery
 
 - Sensors
@@ -54,8 +56,6 @@ Working:
 
 Not working:
 -----------
-
-- Deepsleep
 
 - Camera
 
